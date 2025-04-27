@@ -1,0 +1,4 @@
+tk
+requests
+Pillow
+DrissionPage
