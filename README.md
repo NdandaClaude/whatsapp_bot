@@ -23,6 +23,9 @@ Interface graphique simple, entièrement personnalisable.
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/b9cf04ae-84c3-470f-a655-277c3bddacd1)
+
+
 
 ## Contribuer
 
